@@ -1,3 +1,3 @@
 # hello-world
 
-First commint on github.
+First commit on github.
